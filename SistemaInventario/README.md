@@ -1,6 +1,6 @@
-# Sistema de Inventarios 🛒
+# Sistema de Inventarios 
 
-¡Bienvenido a tu sistema de inventarios en Python!  
+¡Bienvenido al sistema de inventarios en Python!  
 Este proyecto permite gestionar productos en un inventario de forma sencilla y eficiente.
 
 ## Funcionalidades
