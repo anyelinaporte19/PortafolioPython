@@ -1,0 +1,24 @@
+04:57:33 PM:DEBUG [usuarioDAO.py:19] Id usuario: 1, Usuario: Adecena Contraseña: 907
+04:57:33 PM:DEBUG [usuarioDAO.py:19] Id usuario: 2, Usuario: Mmarte Contraseña: 321
+04:57:33 PM:DEBUG [usuarioDAO.py:19] Id usuario: 5, Usuario: Lsosa Contraseña: 786
+04:57:33 PM:DEBUG [usuarioDAO.py:19] Id usuario: 6, Usuario: Jporte Contraseña: 1011
+04:57:33 PM:DEBUG [usuarioDAO.py:19] Id usuario: 9, Usuario: Afrancisca Contraseña: 1911
+04:57:57 PM:DEBUG [usuarioDAO.py:30] Usuario insertado: Id usuario: None, Usuario: Fsosa Contraseña: 342
+04:58:39 PM:DEBUG [usuarioDAO.py:44] Usuario actualizado: Id usuario: 10, Usuario: Fporte Contraseña: 875
+04:58:54 PM:DEBUG [usuarioDAO.py:56] Usuario eliminado: Id usuario: 10, Usuario: None Contraseña: None
+04:58:59 PM:DEBUG [usuarioDAO.py:19] Id usuario: 1, Usuario: Adecena Contraseña: 907
+04:58:59 PM:DEBUG [usuarioDAO.py:19] Id usuario: 2, Usuario: Mmarte Contraseña: 321
+04:58:59 PM:DEBUG [usuarioDAO.py:19] Id usuario: 5, Usuario: Lsosa Contraseña: 786
+04:58:59 PM:DEBUG [usuarioDAO.py:19] Id usuario: 6, Usuario: Jporte Contraseña: 1011
+04:58:59 PM:DEBUG [usuarioDAO.py:19] Id usuario: 9, Usuario: Afrancisca Contraseña: 1911
+05:04:44 PM:DEBUG [usuarioDAO.py:19] Id usuario: 1, Usuario: Adecena Contraseña: 907
+05:04:44 PM:DEBUG [usuarioDAO.py:19] Id usuario: 2, Usuario: Mmarte Contraseña: 321
+05:04:44 PM:DEBUG [usuarioDAO.py:19] Id usuario: 5, Usuario: Lsosa Contraseña: 786
+05:04:44 PM:DEBUG [usuarioDAO.py:19] Id usuario: 6, Usuario: Jporte Contraseña: 1011
+05:04:44 PM:DEBUG [usuarioDAO.py:19] Id usuario: 9, Usuario: Afrancisca Contraseña: 1911
+05:04:53 PM:DEBUG [usuarioDAO.py:56] Usuario eliminado: Id usuario: 9, Usuario: None Contraseña: None
+07:03:47 PM:DEBUG [usuarioDAO.py:19] Id usuario: 1, Usuario: Adecena Contraseña: 907
+07:03:47 PM:DEBUG [usuarioDAO.py:19] Id usuario: 2, Usuario: Mmarte Contraseña: 321
+07:03:47 PM:DEBUG [usuarioDAO.py:19] Id usuario: 5, Usuario: Lsosa Contraseña: 786
+07:03:47 PM:DEBUG [usuarioDAO.py:19] Id usuario: 6, Usuario: Jporte Contraseña: 1011
+07:04:09 PM:DEBUG [usuarioDAO.py:30] Usuario insertado: Id usuario: None, Usuario: AMejia Contraseña: 156
