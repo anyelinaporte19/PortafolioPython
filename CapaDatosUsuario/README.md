@@ -44,7 +44,8 @@ python -m pip install psycopg2
 Crea una base de datos llamada users_db (puedes cambiar el nombre si lo ajustas en el código).
 
 En el archivo conexion.py, configura tus credenciales:
-
+### Clase de conexión
+```python
 class Conexion:
     _DATABASE = 'users_db'
     _USERNAME = 'tu_usuario'
@@ -52,12 +53,13 @@ class Conexion:
     _DB_PORT = '5432'
     _HOST = 'localhost'
 
+
 ## Crea la tabla de usuarios:
+
 CREATE TABLE usuario (
     id_usuario SERIAL PRIMARY KEY,
-    nombre VARCHAR(50),
-    apellido VARCHAR(50),
-    email VARCHAR(100)
+    username VARCHAR(50),
+    password VARCHAR(50)
 );
 
 
